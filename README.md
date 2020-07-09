@@ -1,2 +1,2 @@
-# vscode-settings
-Repo for current settings I use in VS Code.
+# VS Code Configuration
+Repo for my current VS Code config.
